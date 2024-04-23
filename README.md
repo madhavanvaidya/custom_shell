@@ -14,8 +14,8 @@ This repository contains the source code for a custom shell implementation in C.
 To use the custom shell, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Compile the source code using a C compiler, such as GCC: ```bash gcc -o custom_shell custom_shell.c```.
-3. Run the compiled executable: ```bash ./custom_shell```.
+2. Compile the source code using a C compiler, such as GCC: ```gcc -o custom_shell custom_shell.c```.
+3. Run the compiled executable: ```./custom_shell```.
 4. Once the shell is running, you can enter commands in the terminal interface, and the shell will execute them accordingly.
 
 ## Additional Notes
